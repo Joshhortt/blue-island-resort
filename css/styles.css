@@ -1,21 +1,22 @@
 h1 {
-  font-family: Arial;
   color: #1caaec;
-  text-align: center;
+
+
 }
 
 h2 {
-  font-family: Arial;
   font-style: italic;
-  text-align: center;
   color: #12448d;
 }
 
 p {
-  font-family: Arial;
   color: #444444;
 }
 
 body {
   background-color: #f7f7f7;
+  font-family: Arial;
+  text-align: center;
+  font-size: 18px;
+
 }
