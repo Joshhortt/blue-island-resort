@@ -1,22 +1,27 @@
 h1 {
   color: #1caaec;
-
-
+  text-align: center;
 }
 
 h2 {
   font-style: italic;
   color: #12448d;
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+  color: #1caaec;
 }
 
 p {
   color: #444444;
+  text-align: left;
 }
 
 body {
   background-color: #f7f7f7;
   font-family: Arial;
-  text-align: center;
   font-size: 18px;
 
 }
